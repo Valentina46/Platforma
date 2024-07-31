@@ -19,12 +19,6 @@ const buttons = [
     vaiant: 'common'
   },
   
-  {
-    name: 'Финансы',
-    vaiant: 'dropDown'
-  },
-
-  
 ]
 
 export const Header = () =>{
