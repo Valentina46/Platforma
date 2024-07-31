@@ -1,0 +1,45 @@
+.awardItemCont{
+  display: flex;
+}
+
+.awardItem{
+  display: flex;
+  gap: 15px;
+}
+
+.edd{
+  background-color:rgb(128 128 128 / 11%);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 20%;
+
+}
+
+.root{
+  background-color: rgb(255, 255, 255,0.5);
+  height: 662px;
+  border-radius: 50px;
+  margin-top: 15px;
+  padding: 23px 10px;
+ 
+}
+
+.img{
+  padding: 15px;
+  background-color:rgb(236 238 241);
+  border-radius: 50px;
+  border: 1px solid grey;
+}
+
+.title{
+  font-size: 23px;
+  margin-top: 0px;
+}
+
+.eddTitle{
+  padding: 0px 20px;
+  color: rgba(0, 0, 0, 0.5);
+}

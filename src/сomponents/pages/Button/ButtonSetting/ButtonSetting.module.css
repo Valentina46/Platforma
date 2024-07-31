@@ -1,0 +1,14 @@
+.buttonSetting{
+  width: 35px;
+  height: 35px;
+  border: none;
+  background-color: white;
+}
+
+.buttonContainer{
+  display: flex;
+  background-color: white;
+  padding: 15px;
+  border-radius: 50px;
+  position: relative;
+}

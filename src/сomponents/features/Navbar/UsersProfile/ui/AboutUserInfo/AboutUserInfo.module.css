@@ -1,0 +1,22 @@
+.userName{
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  font-weight: 510;
+  font-family: serif;
+  line-height: 29px;
+  padding-top: 5px;
+}
+
+.userInfo{
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.status{
+  color: #006DF0;
+}
+.city{
+  color: gray;
+}

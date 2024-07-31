@@ -1,0 +1,11 @@
+.tab{
+  border-radius: 50px;
+  border: none;
+  height: 20px;
+  background-color: white;
+  padding: 20px;
+  font-size: 16px;
+  position: relative;
+  color: rgb(0, 0, 0,0.5);
+  text-decoration: none !important;
+}

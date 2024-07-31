@@ -1,0 +1,17 @@
+.root{
+  display: flex;
+  background-color: white;
+  border-radius: 50px;
+}
+
+.image{
+  margin: 8px;
+  display: flex;
+  align-items: center;
+}
+.title{
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+}

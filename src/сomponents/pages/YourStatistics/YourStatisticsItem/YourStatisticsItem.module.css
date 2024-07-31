@@ -1,0 +1,94 @@
+.root{
+  background-color: rgb(255, 255, 255,0.5);
+  border-radius: 25px;
+  padding: 10px;
+}
+
+.statisticSchedule{
+  width: 100%;
+  height: 230px;
+  background-color: rgb(255, 255, 255,0.5);
+  border-radius: 25px;
+}
+
+.nameCompany{
+  display: flex;
+  gap: 20px;
+}
+
+.profitability{
+  color: #27AE60;
+  font-size: 21px;
+  font-weight: 510;
+  margin: 15px 0px 8px 0px
+}
+
+.title{
+  font-size: 21px;
+  font-weight: 510;
+  margin-top: 15px;
+  margin: 15px 0px 8px 0px
+}
+
+.titleItem{
+  color:rgb(0, 0, 0,50%);
+  width: 80%;
+}
+
+.networkPostsPublication{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ECEEF1;
+  margin: 18px 0px;
+  border-radius: 33px;
+  width: 31%;
+  gap: 6px;
+  font-size: 13px;
+}
+
+.buttonCont{
+  display: flex;
+  justify-content: space-between;
+}
+
+.publicationDate{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  margin: 18px 0px;
+  border-radius: 33px;
+  width: 31%;
+  gap: 6px;
+  font-size: 13px;
+}
+
+.image{
+ height: 22px;
+}
+
+.nameCompanyBtn{
+  display: flex;
+  justify-content: space-between;
+}
+
+.btnCont{
+  display: flex;
+  justify-content: center;
+  border-radius: 50px;
+  align-items: center;
+  padding: 0px 10px;
+  border: solid 1px #ECEEF1;
+  gap: 8px;
+}
+
+.btn{
+  border: none;
+  background-color: rgb(255, 255, 255,0.5);
+}
+
+.titleNetwork{
+  margin: 22px 0px;
+  font-size: 35px;
+}

@@ -1,0 +1,17 @@
+.navbarPages{
+  display: flex;
+  gap:15px;
+  width: 100%;
+}
+
+.root{
+  margin: 35px;
+}
+
+.navbar{
+  width: 30%;
+}
+
+.rerender{
+  width: 70%;
+}

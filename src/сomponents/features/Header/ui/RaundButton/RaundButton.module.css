@@ -1,0 +1,34 @@
+.root{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.push{
+  border-radius: 50px;
+  border: none;
+  background-color: white;
+  padding: 20px;
+  font-size: 12px;
+  position: relative;
+}
+.raund{
+  border-radius: 50px;
+  border: none;
+  background-color: white;
+  padding: 15px;
+  font-size: 12px;
+  position: relative;
+}
+
+.raundProfil{
+  display: flex;
+  background-color: white;
+  padding: 10px;
+  border-radius: 50px;
+}
+ 
+.raundProfilImg{
+  width:35px
+}

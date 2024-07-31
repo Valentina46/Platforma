@@ -1,0 +1,41 @@
+.root {
+  width: 28%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: 14px;
+  padding: 15px 40px 15px 15px;
+  border: none;
+  font-size: 12px;
+  margin: 20px;
+  position: relative;
+  background-color: rgb(255, 255, 255,0.5);
+  color: rgb(0, 0, 0,0.5);
+}
+
+.text{
+  height: 100%;
+  overflow: scroll;
+}
+.text1{
+  margin: 0px;
+}
+.text2{
+  margin-bottom: 0px;
+}
+.text::-webkit-scrollbar {
+  display: none;
+}
+
+.buttonClose{
+  position: absolute;
+  right: 5px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  border: none;
+  justify-content: center;
+  background-color: rgba(251, 249, 249,0)
+}
+

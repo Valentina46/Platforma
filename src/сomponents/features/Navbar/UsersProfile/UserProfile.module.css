@@ -1,0 +1,42 @@
+.root{
+  width:350px;
+  height:800px;
+  background-color: white;
+  border-radius: 50px;
+}
+
+.avaProfile{
+  display: flex;
+  justify-content: space-around;
+}
+
+.subscribe{
+  display: flex;
+  justify-content: space-around;
+  padding: 35px 10px;
+}
+
+.buttonCont{
+  display: flex;
+  display: flex;
+  position: absolute;
+  right: 5px;
+  gap: 3px;
+}
+.button{
+  background-color: #006DF0;
+  border-radius: 15px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.avaProfileCont{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

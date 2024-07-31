@@ -1,0 +1,16 @@
+.root{
+  width: 20%;
+  background-color: white;
+}
+
+.network{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.title{
+  padding: 35px 0px 0px 0px;
+  color: rgb(0, 0, 0,50%);
+  margin: 0px;
+}
