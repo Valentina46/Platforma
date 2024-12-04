@@ -5,6 +5,8 @@ import { Header } from './сomponents/features/Header/blocks/Header/Header';
 import { Ads } from './сomponents/features/Pages/Announcement/Ads';
 
 function App() {
+  console.log('test');
+  
   return (
     <div className='root'>
      <Header/>
