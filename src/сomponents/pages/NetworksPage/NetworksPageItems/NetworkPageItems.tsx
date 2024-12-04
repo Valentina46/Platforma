@@ -1,5 +1,5 @@
 import styles from "./NetworkPageItems.module.css"
-import "./../../../../App.css"
+import "../../../../App.css"
 
 interface InetworkPageItems{
   pageItems: {

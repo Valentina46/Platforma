@@ -1,0 +1,92 @@
+.root{
+  margin:35px 0px 35px 0px;
+  background-color: rgb(255, 255, 255,0.5);
+  border-radius: 25px;
+  padding: 15px;
+}
+.image{
+  >img{
+
+    border-radius: 50px;
+    width: 35px;
+    height: 35px;
+    overflow:hidden;
+  }
+}
+
+.nameCompany{
+  display: flex;
+  align-items: center;
+  gap:5px
+}
+.name{
+  font-weight: 600;
+  font-size: 20px;
+}
+.tagsCont{
+  display: flex;
+  gap: 10px;
+}
+.text{
+  margin: 5px 0px 15px 0px;
+}
+.textTitle{
+  font-size: 18px;
+}
+.tag{
+  background-color: #ECEEF1;
+  color: #006DF0;
+  border-radius: 50px;
+  padding: 5px 11px;
+  font-size: 12px;
+  
+}
+
+.network{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background-color: #eceef1d1;
+  border-radius: 30px;
+  padding: 18px;
+  color: rgb(0, 0, 0,50%);
+  font-size: 14px;
+}
+
+.networkImg{
+  display: flex;
+  gap: 5px
+}
+
+.budgetCont{
+  background-color: #eceef1d1;
+  border-radius: 30px;
+  padding: 18px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  
+}
+
+.networkBudgetCont{
+  display: flex;
+  gap: 5px;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.budgetTitle{
+  color:rgb(0, 0, 0, 50%);
+  font-size: 14px;
+}
+
+.budgetImageMoney{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 20px;
+  font-weight: 1000;
+}
+.textText{
+ color: rgb(0, 0, 0, 50%);
+}

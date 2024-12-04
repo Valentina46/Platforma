@@ -51,6 +51,4 @@ export const MynePage = ()=>{
       </div>
     </div>
   )
-
-  
 }

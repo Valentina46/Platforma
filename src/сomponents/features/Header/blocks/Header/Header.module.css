@@ -18,3 +18,23 @@
   flex-direction: column;
   margin-right: 25px;
 }
+.buttonsContainer{
+  display: flex;
+  gap: 5px;
+}
+.buttons{
+  border-radius: 50px;
+  border: none;
+  background-color: white;
+  padding:20px;
+  font-size: 12px;
+}
+
+.buttons:active {
+  background-color: black;
+  color:white
+}
+.buttons:link {
+  background-color: black;
+  color:white
+}
